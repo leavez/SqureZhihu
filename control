@@ -1,0 +1,9 @@
+Package: com.leave.squarezhihu
+Name: SquareZhihu
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Reduce corner radius of the root window of Zhihu app.
+Maintainer: GAO
+Author: GAO
+Section: Tweaks

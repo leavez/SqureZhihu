@@ -1,0 +1,10 @@
+Package: com.leave.squarezhihu
+Name: SquareZhihu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Remove round corner of the root window.
+Maintainer: GAO
+Author: GAO
+Section: Tweaks
+Version: 0.0.1-11
+Installed-Size: 136
